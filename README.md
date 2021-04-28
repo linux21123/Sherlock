@@ -1,3 +1,5 @@
+!!!I am not responsible or use legal proceedings for illegal actions at your own risk it is a test for your Internet connection and router Or your own Website.!!!
+
 <p align=center>
 
   <img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/>
@@ -203,3 +205,4 @@ list of sites to ignore (one site name per line).
 
 MIT © Sherlock Project<br/>
 Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+All Rights goes too Siddharth
